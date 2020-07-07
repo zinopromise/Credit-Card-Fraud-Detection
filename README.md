@@ -7,8 +7,9 @@ This project uses simple regression models to detect fradulent credit card trans
 Due to confidentiality, the original feature names and more data cannot be provided.
 <br> Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset.
 ## Source of Dataset
-The dataset is an open source dataset gotten from kaggle.com and uploaded by Machine Learning Group - ULB
-<br> The link to the dataset is: https://www.kaggle.com/mlg-ulb/creditcardfraud/tasks?taskId=71
+The dataset is an open source dataset gotten from kaggle.com and uploaded by Machine Learning Group - ULB.
+<br> The dataset cannot be uploaded to GitHub because of its file size.
+<br> The link to the dataset is: https://www.kaggle.com/mlg-ulb/creditcardfraud
 ## Tools Used
 Jupyter Notebook
 ## Python Libraries Used
